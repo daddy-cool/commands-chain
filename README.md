@@ -8,7 +8,7 @@ Simple program that takes a list of commands and executes them one after the oth
 ```
 Execute a list of commands in sequence
 
-Usage: commands-chain.exe [COMMANDS]...
+Usage: commands-chain [COMMANDS]...
 
 Arguments:
   [COMMANDS]...  list of commands
